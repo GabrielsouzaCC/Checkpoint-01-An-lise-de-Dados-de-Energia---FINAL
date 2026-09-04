@@ -17,10 +17,10 @@ O objetivo geral é aplicar técnicas de preparação, manipulação e interpret
 ## Estrutura do Repositório
  
 ```
-📦 analise-dados-energia-sers
- ┣ 📓 desafio_final.ipynb          ← Desafio Final: API pública do ONS
- ┣ 📓 exercicios_aulas_03_04.ipynb ← Exercícios das Aulas 03 e 04
- ┗ 📄 README.md                    ← Este arquivo
+ analise-dados-energia-sers
+ ┣  desafio_final.ipynb          ← Desafio Final: API pública do ONS
+ ┣  exercicios_aulas_03_04.ipynb ← Exercícios das Aulas 03 e 04
+ ┗   README.md                    ← Este arquivo
 ```
  
 ---
@@ -139,8 +139,8 @@ pip install pandas matplotlib requests seaborn
  
 | Nome | RM |
 |------|----|
-| (preencher) | (preencher) |
-| (preencher) | (preencher) |
-| (preencher) | (preencher) |
+| (Gabriel de Oliveira Souza) | (571583) |
+| (João Melo) | (571116) |
+| (Rafael Sá) | (569223) |
 ---
  
