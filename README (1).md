@@ -1,4 +1,4 @@
-# ⚡ Análise de Dados de Energia — SERS / FIAP
+#  Análise de Dados de Energia — SERS / FIAP
 
 **Curso:** Ciência da Computação  
 **Disciplina:** Soluções em Energias Renováveis e Sustentáveis  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Sobre o Projeto
+##  Sobre o Projeto
 
 Este repositório reúne as atividades práticas de análise de dados do setor de energia elétrica desenvolvidas nas aulas 03, 04 e como desafio final da disciplina de Soluções em Energias Renováveis e Sustentáveis (SERS).
 
@@ -14,20 +14,12 @@ O objetivo geral é aplicar técnicas de preparação, manipulação e interpret
 
 ---
 
-## 📁 Estrutura do Repositório
-
-```
-📦 analise-dados-energia-sers
- ┣ 📓 desafio_final.ipynb          ← Desafio Final: API pública do ONS
- ┣ 📓 exercicios_aulas_03_04.ipynb ← Exercícios das Aulas 03 e 04 (6 datasets)
- ┗ 📄 README.md                    ← Este arquivo
-```
 
 ---
 
-## 📂 Descrição dos Arquivos
+##  Descrição dos Arquivos
 
-### 📓 `desafio_final.ipynb`
+###  `desafio_final.ipynb`
 
 Notebook com a resolução completa do Desafio Final da disciplina.
 
@@ -46,7 +38,7 @@ Notebook com a resolução completa do Desafio Final da disciplina.
 
 ---
 
-### 📓 `exercicios_aulas_03_04.ipynb`
+###  `exercicios_aulas_03_04.ipynb`
 
 Notebook com a resolução dos exercícios práticos das aulas 03 e 04, cobrindo os **6 datasets** da disciplina. Para cada dataset o notebook contém a descrição da Etapa A (Orange Data Mining) e a resolução completa da Etapa B (Python / Pandas).
 
@@ -59,11 +51,11 @@ Notebook com a resolução dos exercícios práticos das aulas 03 e 04, cobrindo
 | 5 | Wind & Solar Energy Production | Kaggle | `amostra_ds5.csv` | 80% de cada fonte | Alta produção eólica E solar simultaneamente |
 | 6 | Individual Household Power Consumption | UCI | `amostra_ds6.csv` | 75% da potência ativa | Alta potência + climatização acima da média |
 
-> ⚠️ O Dataset 6 usa `;` como separador de colunas e `?` para valores ausentes. O código já trata isso automaticamente.
+>  O Dataset 6 usa `;` como separador de colunas e `?` para valores ausentes. O código já trata isso automaticamente.
 
 ---
 
-## 🗂️ Fontes dos Dados
+##  Fontes dos Dados
 
 ### Desafio Final — ONS (Operador Nacional do Sistema Elétrico)
 
@@ -93,7 +85,7 @@ O ONS é o órgão responsável pela coordenação e controle da operação das 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 | Ferramenta | Uso |
 |------------|-----|
@@ -104,40 +96,15 @@ O ONS é o órgão responsável pela coordenação e controle da operação das 
 | Orange Data Mining | Preparação visual dos dados (Etapa A dos exercícios) |
 | Jupyter Notebook | Ambiente de desenvolvimento |
 
-### Instalação das dependências
 
-```bash
-pip install pandas matplotlib requests
-```
-
----
-
-## ▶️ Como Executar
-
-### Desafio Final
-1. Abra `desafio_final.ipynb` no Jupyter ou Google Colab
-2. Execute todas as células em ordem
-3. A API é consultada automaticamente — nenhum arquivo externo é necessário
-
-### Exercícios (Aulas 03 e 04)
-1. Baixe o dataset correspondente no link da tabela acima
-2. Abra o arquivo no **Orange Data Mining** e siga a Etapa A descrita no notebook
-3. Exporte a amostra com o nome correto (`amostra_ds1.csv`, `amostra_ds2.csv`, etc.)
-4. Coloque o arquivo exportado na mesma pasta que `exercicios_aulas_03_04.ipynb`
-5. Execute as células do dataset correspondente ao seu grupo
-
----
-
-## 👥 Integrantes do Grupo
-
+##  Integrantes do Grupo
+ 
 | Nome | RM |
 |------|----|
-| (preencher) | (preencher) |
-| (preencher) | (preencher) |
+| (Gabriel de Oliveira Souza) | (571583) |
+| (João Melo) | (571116) |
+| (Rafael Sá) | (569223) |
 
 ---
 
-## 📅 Entrega
 
-- **Apresentação:** Aula 05 — 04/09
-- **Envio:** link deste repositório pelo botão Anexar na tarefa
